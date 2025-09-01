@@ -405,7 +405,8 @@ CETV4,http://yemingjkl.x3322.net:35455/mgtv/923287339.m3u8$IPV4『线路10』
 凤凰卫视香港台,https://live.tvfix.org/live/fwxg/index.m3u8$IPV4『线路12』
 凤凰卫视香港台,http://108.181.21.27:27347/livehttpplay?channel_id=30016$IPV4『线路13』
 凤凰卫视香港台,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8$IPV4『线路14』
-香港卫视,https://yvxymm.tv12.xyz/175.m3u8$IPV4
+香港卫视,https://yvxymm.tv12.xyz/175.m3u8$IPV4『线路1』
+香港卫视,https://yvxymm.tv12.xyz/175.m3u8$IPV4『线路2』
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8$IPV4
 湖南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8$IPV4『线路1』
 湖南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8$IPV4『线路2』
@@ -1180,6 +1181,7 @@ i-HOT爱青春,http://27.19.5.15:35455/itv/6000000006000100630.m3u8?cdn=wasusyt$
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd$IPV4
 重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$IPV4『线路1』
 重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$IPV4『线路2』
+重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd$IPV4『线路3』
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8$IPV4
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8$IPV4
 垫江综合,http://125.62.24.185:80/1.m3u8$IPV4
@@ -1950,7 +1952,6 @@ TVB Plus,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8$IPV4『线路2』
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$IPV4『线路1』
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8$IPV4『线路2』
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$IPV4『线路3』
-东森电影,http://live4play.uk/livehttpplay?channel_id=20104$IPV4『线路4』
 中天亚洲台,http://103.36.223.125:81/smt.php?id=ctiasia_twn$IPV4『线路1』
 中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn$IPV4『线路2』
 大爱2台,http://103.36.223.125:81/smt.php?id=daai2_twn$IPV4『线路1』
@@ -2018,7 +2019,8 @@ tvN,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8$IPV4『线路2』
 林正英电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8$IPV4『线路4』
 刘德华电影,http://182.40.120.229/hs.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8$IPV4『线路1』
 刘德华电影,http://iptv.jxpan.vip:18888/aio/huya/11342424$IPV4『线路2』
-古天乐电影,http://182.40.120.229/hs.flv.huya.com/src/1239543150751-1239543150751-11135001227991973888-2479086424958-10057-A-0-1.m3u8$IPV4
+古天乐电影,http://182.40.120.229/hs.flv.huya.com/src/1239543150751-1239543150751-11135001227991973888-2479086424958-10057-A-0-1.m3u8$IPV4『线路1』
+古天乐电影,http://iptv.jxpan.vip:18888/aio/huya/29982675$IPV4『线路2』
 成龙电影,http://182.40.120.229/hs.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8$IPV4『线路1』
 成龙电影,http://iptv.jxpan.vip:18888/aio/huya/11342386$IPV4『线路2』
 周润发电影,http://182.40.120.229/hs.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8$IPV4

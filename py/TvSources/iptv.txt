@@ -624,7 +624,6 @@ CCTV16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV16,http://123.254.110.101:5000/1000000006000233002/ystenlive/index.m3u8
 CCTV16,http://123.254.110.101:5000/5000000008000023254/bestzb/index.m3u8
 CCTV16,http://180.105.209.130:55555/itv/1000000006000233002.m3u8?cdn=ystenlive
-CCTV16,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8
 CCTV16 4K 12M,http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16 4M,http://39.134.136.161:6610/000000001000/1000000006000233002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233002
 CCTV16 4M,http://39.134.136.161:6610/000000001000/1000000006000233001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233001
@@ -2139,7 +2138,6 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 东方卫视,http://123.254.110.101:5000/5000000004000014098/bestzb/index.m3u8?Contentid=5000000004000014098
 东方卫视,http://123.254.110.101:5000/1000000005000265018/ystenlive/index.m3u8?Contentid=1000000005000265018
 东方卫视,http://58.220.219.14:9901/tsfile/live/0107_1.m3u8
-东方卫视,http://183.11.239.36:808/hls/114/index.m3u8
 东方卫视 4M,http://39.134.136.161:6610/000000001000/1000000001000030202/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030202
 东方卫视 4M,http://39.134.136.161:6610/000000001000/5000000010000032246/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032246
 东方卫视 5.5MHEVC,http://39.134.136.161:6610/000000001000/1000000005000265018/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265018
@@ -2376,6 +2374,7 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 内蒙古卫视,http://113.195.45.95:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://123.254.110.101:5000/1000000002000014080/ystenlive/index.m3u8?Contentid=1000000002000014080
 内蒙古卫视,http://58.220.219.14:9901/tsfile/live/0114_1.m3u8?key=txiptv
+内蒙古卫视,http://182.150.23.74:808/hls/37/index.m3u8
 内蒙古蒙语卫视,http://221.199.193.3:9901/tsfile/live/1004_1.m3u8
 内蒙古蒙语卫视,http://221.199.193.157:9901/tsfile/live/1004_1.m3u8
 内蒙少儿,http://221.199.193.3:9901/tsfile/live/1010_1.m3u8
@@ -2550,7 +2549,6 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 北京卫视,http://175.171.30.26:5111/hls/474822978/index.m3u8
 北京卫视,http://123.254.110.101:5000/1000000005000265027/ystenlive/index.m3u8?Contentid=1000000005000265027
 北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://183.11.239.36:808/hls/41/index.m3u8
 北京卫视 4M,http://39.134.136.161:6610/000000001000/1000000001000017156/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017156
 北京卫视 4M,http://39.134.136.161:6610/000000001000/5000000010000011502/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000011502
 北京卫视 5.5MHEVC,http://39.134.136.161:6610/000000001000/1000000005000265027/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265027
@@ -2606,6 +2604,7 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 卡酷少儿,http://60.29.124.66:6080/hls/58/index.m3u8
 卡酷少儿,http://112.102.217.173:9003//hls/71/index.m3u8
+卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卫视中文台 Star Movies Chinese,http://103.36.223.125:81/smt.php?id=weishichinese_twn
 卫视电影台,http://103.36.223.125:81/smt.php?id=weishimovie_twn
 历史频道,http://37.27.111.214:8080/live/27/hls.m3u8
@@ -2971,6 +2970,7 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 垫江综合,http://36.105.100.208:35455/itv/1000000002000010063.m3u8
 垫江综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8?zzhongqd
 垫江综合,http://125.62.24.185:80/1.m3u8
+垫江综合,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd
 壹电影,http://108.181.21.27:27347/livehttpplay?channel_id=20108
 夏雪夏雨夏冰雹,http://182.40.120.183/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.m3u8
 外科风云,http://182.40.120.229/hs.flv.huya.com/src/1239543150750-1239543150750-11135001223697006592-2479086424956-10057-A-0-1.m3u8
@@ -3078,7 +3078,6 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 天津卫视,http://123.254.110.101:5000/5000000004000006827/bestzb/index.m3u8?Contentid=5000000004000006827
 天津卫视,http://123.254.110.101:5000/1000000005000265026/ystenlive/index.m3u8?Contentid=1000000005000265026
 天津卫视,http://58.220.219.14:9901/tsfile/live/0135_1.m3u8
-天津卫视,http://182.150.23.74:808/hls/27/index.m3u8
 天津卫视 4M,http://39.134.136.161:6610/000000001000/1000000001000000831/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000000831
 天津卫视 4M,http://39.134.136.161:6610/000000001000/5000000001000030788/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000030788
 天津卫视 5.5MHEVC,http://39.134.136.161:6610/000000001000/1000000005000265026/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265026
@@ -3190,7 +3189,6 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 安徽卫视,http://123.254.110.101:5000/1000000001000030159/ystenlive/index.m3u8?Contentid=1000000001000030159
 安徽卫视,http://123.254.110.101:5000/1000000005000265025/ystenlive/index.m3u8?Contentid=1000000005000265025
 安徽卫视,http://58.220.219.14:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
 安徽卫视 4M,http://39.134.136.161:6610/000000001000/1000000001000020780/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000020780
 安徽卫视 4M,http://39.134.136.161:6610/000000001000/5000000001000027288/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000027288
 安徽卫视 5.5MHEVC,http://39.134.136.161:6610/000000001000/1000000005000265025/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265025
@@ -3473,7 +3471,7 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 广东卫视,http://123.254.110.101:5000/1000000001000014176/ystenlive/index.m3u8?Contentid=1000000001000014176
 广东卫视,http://123.254.110.101:5000/1000000005000265034/ystenlive/index.m3u8?Contentid=1000000005000265034
 广东卫视,http://58.220.219.14:9901/tsfile/live/0125_1.m3u8
-广东卫视,http://116.9.204.242:9901/tsfile/live/0125_2.m3u8
+广东卫视,http://113.57.111.4:1111/tsfile/live/1022_1.m3u8
 广东卫视 4M,http://39.134.136.161:6610/000000001000/1000000001000028357/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000028357
 广东卫视 4M,http://39.134.136.161:6610/000000001000/5000000010000030417/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030417
 广东卫视 5.5MHEVC,http://39.134.136.161:6610/000000001000/1000000005000265034/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265034
@@ -3772,7 +3770,6 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 新疆卫视,http://123.254.110.101:5000/1000000002000029441.m3u8?livemode=1&stbId=10&cdn=ystenlive/index.m3u8?Contentid=1000000002000029441
 新疆卫视,http://123.254.110.101:5000/1000000002000029441/ystenlive/index.m3u8?Contentid=1000000002000029441
 新疆卫视,http://58.220.219.14:9901/tsfile/live/0120_6.m3u8?key=txiptv
-新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
 新疆奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 新疆石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 新疆石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
@@ -4198,7 +4195,6 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 河南卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=hnws
 河南卫视,http://123.254.110.101:5000/5000000011000031119/bestzb/index.m3u8?Contentid=5000000011000031119
 河南卫视,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8
-河南卫视,http://58.19.43.46:9901/tsfile/live/1006_1.m3u8
 河南卫视 4M,http://39.134.136.161:6610/000000001000/1000000002000027731/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000027731
 河南卫视 8M,http://39.134.136.161:6610/000000001000/5000000011000031119/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031119
 河南民生,http://171.14.89.179:9901/tsfile/live/1002_1.m3u8
@@ -4355,7 +4351,6 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 海南卫视,http://139.129.231.228/rtp/239.21.2.14:5002
 海南卫视,http://123.254.110.101:5000/5000000004000006211/bestzb/index.m3u8?Contentid=5000000004000006211
 海南卫视,http://58.220.219.14:9901/tsfile/live/0016_2.m3u8
-海南卫视,http://113.57.111.4:1111/tsfile/live/1031_1.m3u8
 海南卫视 4M,http://39.134.136.161:6610/000000001000/1000000002000023773/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000023773
 海南卫视 8M,http://39.134.136.161:6610/000000001000/5000000004000006211/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000006211
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$LR•IPV4『线路1』
@@ -5341,6 +5336,7 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 重庆卫视,http://123.254.110.101:5000/1000000001000001096/ystenlive/index.m3u8?Contentid=1000000001000001096
 重庆卫视,http://123.254.110.101:5000/1000000005000265017/ystenlive/index.m3u8?Contentid=1000000005000265017
 重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8
+重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视 4M,http://39.134.136.161:6610/000000001000/1000000002000018937/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000018937
 重庆卫视 5.5MHEVC,http://39.134.136.161:6610/000000001000/1000000005000265017/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265017
 重庆卫视 7.5M,http://39.134.136.161:6610/000000001000/5000000004000025797/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000025797
@@ -5449,7 +5445,6 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 陕西卫视,http://123.254.110.101:5000/5000000006000040017/bestzb/index.m3u8
 陕西卫视,http://123.254.110.101:5000/1000000002000007495/ystenlive/index.m3u8
 陕西卫视,http://58.220.219.14:9901/tsfile/live/0120_7.m3u8?key=txiptv
-陕西卫视,http://111.43.126.240:9003/hls/68/index.m3u8
 陕西新闻咨询,http://112.46.105.20:8009/hls/18/index.m3u8
 陕西秦腔,http://112.46.105.20:8009/hls/22/index.m3u8
 陕西西部电影,http://112.46.105.20:8009/hls/62/index.m3u8

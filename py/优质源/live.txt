@@ -403,8 +403,8 @@ CETV4,http://yemingjkl.x3322.net:35455/mgtv/923287339.m3u8$IPV4『线路9』
 北京卫视,http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1250&online=1717734870&vqe=3$IPV4『线路14』
 北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8$IPV4『线路15』
 北京卫视,http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8$IPV4『线路16』
-北京卫视,http://23.237.228.134/live3/beijing.m3u8$IPV4『线路17』
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$IPV4『线路18』
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$IPV4『线路17』
+北京卫视,http://23.237.228.134/live3/beijing.m3u8$IPV4『线路18』
 江苏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225613/index.m3u8$IPV4『线路1』
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$IPV4『线路2』
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$IPV4『线路3』
@@ -1153,8 +1153,8 @@ i-HOT爱青春,http://27.19.5.15:35455/itv/6000000006000100630.m3u8?cdn=wasusyt$
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed$IPV4『线路2』
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8$IPV4『线路1』
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed$IPV4『线路2』
-平湖新闻综合,http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190eec410c24473825cbe1d8541e545-0-f21db57ae1b534802c1cf7be86cc3aef$IPV4『线路1』
-平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed$IPV4『线路2』
+平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed$IPV4『线路1』
+平湖新闻综合,http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190eec410c24473825cbe1d8541e545-0-f21db57ae1b534802c1cf7be86cc3aef$IPV4『线路2』
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8$IPV4『线路3』
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8$IPV4『线路1』
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed$IPV4『线路2』
@@ -1323,8 +1323,8 @@ i-HOT爱青春,http://27.19.5.15:35455/itv/6000000006000100630.m3u8?cdn=wasusyt$
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680$IPV4『线路1』
 广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb$IPV4『线路2』
 广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb$IPV4
-河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$IPV4『线路1』
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$IPV4『线路2』
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$IPV4『线路1』
+河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$IPV4『线路2』
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007$IPV4『线路3』
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8$IPV4
 云浮综合,https://livestream.oeeee.com/slive/17806.m3u8$IPV4
@@ -1577,7 +1577,8 @@ TVB Plus,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8$IPV4『线路2』
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$IPV4『线路4』
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$IPV4『线路5』
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$IPV4『线路6』
-中华小当家,https://live.iill.top/huya/11342413$IPV4
+中华小当家,https://live.iill.top/huya/11342413$IPV4『线路1』
+中华小当家,https://live.metshop.top/huya/11342413$IPV4『线路2』
 中视新闻,http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d$IPV4
 中视,https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8$IPV4『线路1』
 中视,https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8$IPV4『线路2』
@@ -1631,12 +1632,10 @@ tvN,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8$IPV4『线路2』
 刀刀影院,http://www.goodiptv.club/douyu/747764$IPV4
 华语影视,http://www.goodiptv.club/douyu/3928$IPV4
 热门港剧,http://www.goodiptv.club/douyu/5522351$IPV4
-万合出品,https://goodiptv.club/douyu/9220456$IPV4
 喜剧电影,http://6666666.mghost.site/1/yy2.php?id=11354658051$IPV4『线路1』
 喜剧电影,http://6666666.mghost.site/1/yy2.php?id=1354930945$IPV4『线路2』
 林正英电影,http://6666666.mghost.site/1/yy2.php?id=1382841203$IPV4『线路1』
 林正英电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8$IPV4『线路2』
-小片片说大片,https://goodiptv.club/douyu/4258555$IPV4
 电影_发哥,http://6666666.mghost.site/1/yy2.php?id=1354888733$IPV4
 电影_李连杰,http://6666666.mghost.site/1/yy2.php?id=74613175$IPV4
 电影_洪金宝,http://6666666.mghost.site/1/yy2.php?id=1354924839$IPV4
@@ -1699,7 +1698,8 @@ yy轮播,#genre#
 湄公河大案,谁是幕后凶手？,http://182.40.120.213/test-txdwk.flv.huya.com/src/1239543153978-1239543153978-11135015087851438080-2479086431412-10057-A-0-1.m3u8$IPV4『线路1』
 湄公河大案,谁是幕后凶手？,http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543153978-1239543153978-11135015087851438080-2479086431412-10057-A-0-1.m3u8$IPV4『线路2』
 庆余年,http://zzy789.xyz/douyu1.php?id==5908256$IPV4
-猫和老鼠,https://live.metshop.top/huya/11352879$IPV4
+猫和老鼠,https://live.metshop.top/huya/11352879$IPV4『线路1』
+猫和老鼠,https://live.iill.top/huya/11352879$IPV4『线路2』
 笑傲江湖,http://6666666.mghost.site/1/yy2.php?id=1354930909$IPV4
 地方影视,#genre#
 经典电影,http://6666666.mghost.site/1/yy2.php?id=1356213622$IPV4『线路1』
